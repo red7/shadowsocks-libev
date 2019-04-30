@@ -5,6 +5,9 @@
 [proxy_list]
 # Custom $
 (^|\.)hbogoasia\.hk$
+(^|\.)hbogoasia\.com$
+(^|\.)now\.com$
+(^|\.)hbo\.com$
 (^|\.)ipip\.net$
 
 # Telegram IPs$
